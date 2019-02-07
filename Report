@@ -1,0 +1,27 @@
+# SOP_Fuction
+Simplify the function to a SOP function Design the simplified function using the schematic capture feature of the Xilinx ISE software Simulate and test the schematic using a VHDL test bench Capture the Waveform and verify the output with the truth table
+
+Learning Objectives:
+The general learning objective of this project is to simplify the function using not only Boolean algebra, axioms, identities and properties, but also using the schematic capture feature of Xilinx ISE design studio. Simplifying this function will also teach how to use Xilinx ISE design studio, and how to navigate and use different areas of the software.
+
+Some detailed steps to complete this project were . . . . 
+1.	Simplify the function F to a reduced SOP function using Boolean algebra axioms.
+2.	Develop the truth table and the schematic from the function and draw the schematic on the Xilinx ISE design software.
+3.	Create a test bench and give values to the inputs for the circuit. 
+4.	Simulate the circuit and capture the waveform using the software.
+5.	Verify that the waveform is correct by comparing the outputs to the truth table. 
+
+
+<img width="427" alt="screen shot 2019-02-06 at 8 06 30 pm" src="https://user-images.githubusercontent.com/33227826/52386391-8a236500-2a4b-11e9-966e-75cf15efb6d0.png">
+<img width="427" alt="screen shot 2019-02-06 at 8 06 44 pm" src="https://user-images.githubusercontent.com/33227826/52386392-8a236500-2a4b-11e9-8ebe-d210b7dc8b7b.png">
+<img width="443" alt="screen shot 2019-02-06 at 8 07 14 pm" src="https://user-images.githubusercontent.com/33227826/52386393-8a236500-2a4b-11e9-98c0-0a60de55f0d4.png">
+
+
+Observations:
+
+An important observation noted while completing this project was that the hand-calculated truth table matched up with the waveform from the software. That means that the function F can be represented in multiple ways for different purposes. It can be represented as a function, as a sum of products, as a truth table, as a waveform, and as a schematic/circuit drawing.
+
+<img width="427" alt="screen shot 2019-02-06 at 8 15 03 pm" src="https://user-images.githubusercontent.com/33227826/52386521-0e75e800-2a4c-11e9-9f84-aa84682b0d14.png">
+
+
+I learned how to use the Xilinx ISE design software to create complex circuit schematics, and how to test those schematics for accuracy and efficiency. We learned how to interpret an output waveform, and how to write a sample test bench for a four-input circuit using VHDL. 
